@@ -1,0 +1,11 @@
+#strong{
+    background-color:cadetblue;
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 20;
+}
+body{
+    background-color: lightblue;
+    
+}
